@@ -1,0 +1,17 @@
+<link rel="stylesheet"
+href="styles.css">
+
+<header id="title">Dr Norman Borlaug</header>
+ <main id="main">
+
+<div id="img-div">
+  <img id="image">
+      <a id="tribute-link"href="#" target="_blank"><img src= https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute-page-main-image.jpg>
+      <div id="img-caption">
+        photo of dr norman borlaug.
+       </div></a>
+      </img>
+  </div>
+    <p id="tribute-info">Dr. Norman Borlaug, third from the left, trains biologists in Mexico on how to increase wheat yields - part of his life-long war on hunger.</p>
+  </main>
+
